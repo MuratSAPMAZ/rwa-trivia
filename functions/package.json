@@ -13,13 +13,13 @@
     "express": "4.16.3",
     "feed-to-json": "^1.0.3",
     "firebase-admin": "^5.13.1",
-    "firebase-functions": "^2.0.2",
+    "firebase-functions": "^3.6.2",
     "fs": "0.0.1-security",
     "node-fetch": "^2.2.0",
     "nodemailer": "^4.6.7",
     "path": "^0.12.7",
     "request": "^2.87.0",
-    "sharp": "^0.20.5"
+    "sharp": "^0.29.3"
   },
   "private": true,
   "devDependencies": {
